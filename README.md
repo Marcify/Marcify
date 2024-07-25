@@ -5,12 +5,15 @@ I'm an aspiring developer with a deep passion for technology and innovation. Alt
 ## 🌟 About Me
 I'm a second-year student pursuing a Bachelor of Science in Information Technology, majoring in Web and Mobile Applications. I have a strong interest in web and mobile development and am constantly looking to enhance my skills and knowledge in these areas.
 
-- 🌱 **Learning:** Focused on web and mobile application development.
-- 🔭 **Exploring:** Open to experimenting with new technologies and ideas.
-- 👯 **Collaborating:** Excited to work on interesting and impactful projects.
+- 🌱 **Learning:** Currently focused on JAVA in terms of Focused on web and mobile application development.
+- 🔭 **Exploring:** I'm currently exploring the exciting realm of Minecraft plugin development.
+- 👯 **Collaborating:** Excited to work on interesting and impactful projects with you.
 
 ## 📫 Contact Me
-You can reach me at marcifyx@gmail.com for any inquiries, collaborations, or just to say hi!
+You can reach me at:
+Email: marcifyx@gmail.com
+Discord: marcifyx
+Feel free to reach out for any inquiries, collaborations, or just to say hi!
 
 ---
 
