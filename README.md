@@ -8,8 +8,8 @@ I'm a second-year student pursuing a Bachelor of Science in Information Technolo
 - 📘 **Studying:** Continuously expanding my knowledge in web and mobile application development and IT.
 - 💻 **Coding:** Passionate about writing clean, efficient code and improving my programming language skills.
 - 🛠️ **Building:** I enjoy creating innovative solutions and working on personal projects in my free time.
-- 🔭 **Exploring:** I'm currently exploring the exciting realm of Minecraft plugin development.
-- 👯 **Collaborating:** Excited to work on interesting and impactful projects with you.
+- 🚀 **Exploring:** I'm currently exploring the exciting realm of Minecraft plugin development.
+- 🌐 **Collaborating:** Excited to work on interesting and impactful projects with you.
 
 ## 📫 Contact Me
 You can reach me at:
