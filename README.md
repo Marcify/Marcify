@@ -5,7 +5,9 @@ I'm an aspiring developer with a deep passion for technology and innovation. Alt
 ## 🌟 About Me
 I'm a second-year student pursuing a Bachelor of Science in Information Technology, majoring in Web and Mobile Applications. I have a strong interest in web and mobile development and am constantly looking to enhance my skills and knowledge in these areas.
 
-- 🌱 **Learning:** Focused on web and mobile application development.
+- 📘 **Studying:** Continuously expanding my knowledge in web and mobile application development and IT.
+- 💻 **Coding:** Passionate about writing clean, efficient code and improving my programming language skills.
+- 🛠️ **Building:** I enjoy creating innovative solutions and working on personal projects in my free time.
 - 🔭 **Exploring:** I'm currently exploring the exciting realm of Minecraft plugin development.
 - 👯 **Collaborating:** Excited to work on interesting and impactful projects with you.
 
