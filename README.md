@@ -12,11 +12,11 @@ I'm a second-year student pursuing a Bachelor of Science in Information Technolo
 - 🌐 **Collaborating:** Excited to work on interesting and impactful projects with you.
 
 ## 🛠️ Projects
-- Flaxen Bot: https://discord.com/oauth2/authorize?client_id=974223823064940574
+- **Flaxen Bot**: https://discord.com/oauth2/authorize?client_id=974223823064940574
   - Introducing Flaxen, your radiant Discord companion, here to light up your server with efficiency and charm.
-- StaffMode: https://www.spigotmc.org/resources/staffmode.118543/
+- **StaffMode**: https://www.spigotmc.org/resources/staffmode.118543/
   - A plugin providing toggleable staff mode with permission management and command restrictions.
-- LavaProof: https://www.spigotmc.org/resources/lavaproof.118710/
+- **LavaProof**: https://www.spigotmc.org/resources/lavaproof.118710/
   - A plugin that prevents items from burning in lava.
 
 ## 📫 Contact Me
