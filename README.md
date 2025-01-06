@@ -18,6 +18,8 @@ I'm a second-year student pursuing a Bachelor of Science in Information Technolo
   - A plugin providing toggleable staff mode with permission management and command restrictions.
 - **LavaProof**: https://www.spigotmc.org/resources/lavaproof.118710/
   - A plugin that prevents items from burning in lava.
+- **InstaCraft**: https://www.spigotmc.org/resources/instacraft.121765/
+  - A plugin that allows players to instantly craft items using a simple command.
 
 ## 📫 Contact Me
 You can reach me at:
