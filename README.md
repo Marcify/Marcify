@@ -20,6 +20,8 @@ I'm a third-year student pursuing a Bachelor of Science in Information Technolog
   - A plugin that prevents items from burning in lava.
 - **InstaCraft**: https://www.spigotmc.org/resources/instacraft.121765/
   - A plugin that allows players to instantly craft items using a simple command.
+- **[WIP] Steal a Relic**: https://www.roblox.com/games/125420701267642/ALPHA-Steal-a-Relic
+  - A Roblox game where you buy and steal relics from other players.
 
 ## 📫 Contact Me
 You can reach me at:
