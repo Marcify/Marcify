@@ -15,11 +15,11 @@ I'm a third-year student pursuing a Bachelor of Science in Information Technolog
 - **Flaxen Bot**: https://discord.com/oauth2/authorize?client_id=974223823064940574
   - Introducing Flaxen, your radiant Discord companion, here to light up your server with efficiency and charm.
 - **StaffMode**: https://www.spigotmc.org/resources/staffmode.118543/
-  - A plugin providing toggleable staff mode with permission management and command restrictions.
+  - A Minecraft plugin providing toggleable staff mode with permission management and command restrictions.
 - **LavaProof**: https://www.spigotmc.org/resources/lavaproof.118710/
-  - A plugin that prevents items from burning in lava.
+  - A Minecraft plugin that prevents items from burning in lava.
 - **InstaCraft**: https://www.spigotmc.org/resources/instacraft.121765/
-  - A plugin that allows players to instantly craft items using a simple command.
+  - A Minecraft plugin that allows players to instantly craft items using a simple command.
 - **[WIP] Steal a Relic**: https://www.roblox.com/games/125420701267642/ALPHA-Steal-a-Relic
   - A Roblox game where you buy and steal relics from other players.
 
