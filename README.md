@@ -21,6 +21,8 @@ I'm a third-year college student pursuing a Bachelor of Science in Information T
   - A Minecraft plugin that prevents items from burning in lava.
 - **InstaCraft** [Minecraft Plugin]: https://www.spigotmc.org/resources/instacraft.121765/
   - A Minecraft plugin that allows players to instantly craft items using a simple command.
+- **Sleepify** [Minecraft Plugin]: https://www.spigotmc.org/resources/sleepify.131667/
+  - A Minecraft plugin that adds a sleep meter to make sleeping more meaningful.
 - **Steal a Relic** [Roblox Game]: https://www.roblox.com/games/125420701267642/BETA-Steal-a-Relic
   - A Roblox game where you buy and steal relics from other players.
 - **Carepet** [Website]: https://marcify.github.io/Carepet/
