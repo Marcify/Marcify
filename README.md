@@ -29,6 +29,8 @@ I'm a third-year college student pursuing a Bachelor of Science in Information T
   - A responsive Pet Care Tips Blog made with pure HTML, CSS, and JavaScript.
 - **Schema Builder** [Interactive Game]: https://marcify.github.io/Schema-Builder/
   - This interactive game transforms data normalization concepts into short, interactive challenges that allow students to actively design and fix database schemas, improving understanding and study productivity. Made with Gemini 3 as an entry for Google Gemini Arena Challenge
+- **Graphify** [Graph Maker]: https://marcify.github.io/Graphify/
+  - A graph builder that lets users create and export customizable graphs.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uptfrBbCX4) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@marcify) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcifyx@gmail.com) 
