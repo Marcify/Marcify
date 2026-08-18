@@ -1,5 +1,8 @@
-<h1 align="center">Hello, I'm Marc! 👋</h1>
-<sub>I'm an aspiring developer with a deep passion for technology and innovation. Although I'm at the beginning of my journey, I'm eager to learn, grow, and make a positive impact through my work.</sub>
+<div align="center">
+  <h1 style="color: blue;">Hello, I'm Marc! 👋</h1>
+  <p>I'm an aspiring developer with a deep passion for technology and innovation. Although I'm at the beginning of my journey, I'm eager to learn, grow, and make a positive impact through my work.</p>
+</div>
+
 
 # 💫 About Me:
 I'm a third-year college student pursuing a Bachelor of Science in Information Technology, majoring in Web and Mobile Applications. I have a strong interest in software development and am constantly looking to enhance my skills and knowledge in these areas.
