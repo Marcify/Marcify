@@ -13,8 +13,8 @@
 </div>
 
 ## 🛠️ Projects:
-- **SandBytes** [Discord Bot]: https://discord.com/oauth2/authorize?client_id=974223823064940574
-  - Introducing SandBytes, your radiant Discord companion, here to light up your server with efficiency and charm.
+- **Servify** [Discord Bot]: https://discord.com/oauth2/authorize?client_id=974223823064940574
+  - Introducing Servify, your radiant Discord companion, here to light up your server with efficiency and charm.
 - **StaffMode** [Minecraft Plugin]: https://www.spigotmc.org/resources/staffmode.118543/
   - A Minecraft plugin providing toggleable staff mode with permission management and command restrictions.
 - **LavaProof** [Minecraft Plugin]: https://www.spigotmc.org/resources/lavaproof.118710/
